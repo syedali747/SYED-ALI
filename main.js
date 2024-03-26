@@ -1,0 +1,13 @@
+console.log("HELLO WORLD");
+console.log('HELLO ALI');
+console.log("HELLO ALI AKBAR");
+console.log("RAMADAN MUBARAK");
+console.log('HOW ARE YOU ALI?');
+console.log("ALEX WHAT ARE YOU PLANNING TODAY?");
+console.log("I LOVE PAKISTAN");
+favouritecolour = 'Blue';
+favouritecolour = 'Green';
+favouritecolour = 'Red silver';
+console.log(favouritecolour);
+console.log(favouritecolour);
+console.log(favouritecolour);
